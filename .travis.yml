@@ -3,5 +3,5 @@ node_js:
   - "node"
   - "7"
 
-  before_install:
-    - npm install -g mocha
+before_install:
+  - npm install -g mocha
